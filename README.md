@@ -1,6 +1,6 @@
 # Sobre este repositório
 
-Repositório de material desenvolvido no Bootcamp "JavaScript Game Developer", ofertado pela [Digital Innovation One](https://web.digitalinnovation.one/). Foi elaborado para o #DioLabs "Criando seu próprio jogo da velha com HTML e Javascript" ministrado por [Vitor Ruschoni](https://github.com/ruschoni02). A partir dos conceitos aprendidos nesta Lab, foram implementados os conceitos abordados.
+Repositório de material desenvolvido no Bootcamp "JavaScript Game Developer", ofertado pela [Digital Innovation One](https://web.digitalinnovation.one/). Foi elaborado para o #DioLabs "Criando seu próprio jogo da velha com HTML e Javascript" ministrado por [Vitor Ruschoni](https://www.linkedin.com/in/ruschoni02/). A partir dos conceitos aprendidos nesta Lab, foram implementados os conceitos abordados.
  
 ## Descrição do projeto: Criando seu próprio jogo da velha com HTML e Javascript
 
